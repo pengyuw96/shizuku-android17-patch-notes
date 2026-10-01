@@ -1,0 +1,14 @@
+Copyright notice / attribution
+
+This repository contains documentation only (patch notes describing modifications
+to Shizuku for Android 17). It does not redistribute Shizuku source code or binaries.
+
+Shizuku is licensed under the Apache License, Version 2.0:
+https://github.com/RikkaApps/Shizuku
+
+Upstream / related:
+- RikkaApps/Shizuku (Apache-2.0)
+- thedjchi/Shizuku fork v13.7.0-thedjchi
+
+You may obtain a copy of the Apache License at:
+http://www.apache.org/licenses/LICENSE-2.0
